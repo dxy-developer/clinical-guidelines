@@ -1,6 +1,6 @@
 # 下标
 
-下标的英文单词为subscript，简写为sub
+使用sub来下标文字（subscript，简写sub）
 
 ## 范例
 

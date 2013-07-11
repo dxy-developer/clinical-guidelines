@@ -1,6 +1,6 @@
 # 上标
 
-上标的英文单词为superscript，简写为sup
+使用sup上标文字（superscript，简写为sup）
 
 ## 范例
 
